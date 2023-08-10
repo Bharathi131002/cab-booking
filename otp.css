@@ -1,0 +1,13 @@
+.input-field input{
+    height: 20px;
+    width: 17px;
+    row-gap: 12px;
+    border-radius: 6px;
+    outline: none;
+    font-size: 1.125rem;
+    text-align: center;
+    border: 1px solid;
+}
+.container{
+    text-align: center;
+}
